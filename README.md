@@ -41,6 +41,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
     >      "upload": "https://www.tiktok.com/creator-center/upload?from=upload"
     >  },
     >  "send": {}
+    >}
   + [x] "license" : If you have purchased a license, add it. If you do not have one, leave it blank to receive the license (license not yet activated).
   + [x] "source" > "tiktok"
     + [x] "userid"  : Insert the tiktok channel id you want to reup. For example: @wikianow
@@ -63,4 +64,4 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
     + [x] "active"  : true | false
     + [x] "profile" : Link to your tiktok channel.
     + [ ] "upload"  :
-}
+
