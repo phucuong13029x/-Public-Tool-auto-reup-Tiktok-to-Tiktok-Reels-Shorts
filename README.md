@@ -64,4 +64,17 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
     + [x] "active"  : true | false
     + [x] "profile" : Link to your tiktok channel.
     + [ ] "upload"  :
-
+## Tutorial
+1. Download app
+2. Download Firefox
+3. Open firefox:
+   3.1 Open link about:profiles
+   3.2 Create profile and copy path profile
+4. Edit file config.json (edit link path profile firefox)
+5. Start file runs.exe
+## Buy license
+- 1 month (not support) = $10
+- 1 month (support)     = $15
+## Payment
+- Paypal: https://paypal.me/phucuongds
+- Other (momo, buymeacoffee): https://tool.phucuongds.com/
