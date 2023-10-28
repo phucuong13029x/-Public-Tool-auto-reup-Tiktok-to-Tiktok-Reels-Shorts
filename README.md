@@ -2,8 +2,7 @@
 Tool auto reup Tiktok to Tiktok, Reels, Shorts
 ## Download
 - Link download:
-  > [https://www.fshare.vn/file/UT8DW82EHZBB](https://www.fshare.vn/file/GOTSBTY257DX
-)
+  > https://www.fshare.vn/file/GOTSBTY257DX
 - Password:
   > phucuongds.com
 ## Meta
