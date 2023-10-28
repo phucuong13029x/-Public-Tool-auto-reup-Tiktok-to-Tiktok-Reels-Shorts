@@ -68,8 +68,8 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 1. Download app
 2. Download Firefox
 3. Open firefox:
-   3.1 Open link about:profiles
-   3.2 Create profile and copy path profile
+   - Open link about:profiles
+   - Create profile and copy path profile
 4. Edit file config.json (edit link path profile firefox)
 5. Start file runs.exe
 ## Buy license
