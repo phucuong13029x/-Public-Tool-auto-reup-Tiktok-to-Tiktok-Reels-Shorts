@@ -70,6 +70,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 3. Open firefox:
    - Open link about:profiles
    - Create profile and copy path profile
+   - Login Tiktok, Facebook (change profile), Youtube => if config.json active is true.
 4. Edit file config.json (edit link path profile firefox)
 5. Start file runs.exe
 ## Buy license
