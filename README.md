@@ -1,7 +1,7 @@
 <h1>Tool-auto-reup-Tiktok-to-Tiktok-Reels-Shorts</h1>
 Tool auto reup Tiktok to Tiktok, Reels, Shorts
-
-# Version 4.0
+<details>
+<summary>Version 4.0</summary>
 ## Download
 - Link download:
   > [https://www.fshare.vn/file/GOTSBTY257DX](https://www.fshare.vn/file/BDO3ZKIMBCLN)
@@ -47,7 +47,6 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
         "upload": "https://twitter.com/compose/tweet"
     }
   }</pre>
-  + [ ] "license" : Not edit.
 ## Tutorial
 1. Download app
 2. Download Firefox
@@ -58,9 +57,11 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 4. Edit file config.json (edit link path profile firefox)
 5. Start file runs.exe
 ## Buy license
-   Version not buy license (free).
-
-# Version 1.0
+   > [!WARNING]
+   > Version not buy license (free).
+</details>
+<details>
+<summary>Version 1.0</summary>
 ## Download
 - Link download:
   > https://www.fshare.vn/file/GOTSBTY257DX
@@ -140,3 +141,4 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 ## Payment
 - Paypal: https://paypal.me/phucuongds
 - Other (momo, buymeacoffee): https://tool.phucuongds.com/
+</details>
