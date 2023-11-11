@@ -2,6 +2,11 @@
 Tool auto reup Tiktok to Tiktok, Reels, Shorts
 
 # Version 4.0
+## Feature
+- Auto remove file old.
+- Fix error of not being able to load 'data'.
+- Fix crash error when editing video.
+- Fix endless loop error.
 ## Download
 - Link download:
   > [https://www.fshare.vn/file/GOTSBTY257DX](https://www.fshare.vn/file/BDO3ZKIMBCLN)
