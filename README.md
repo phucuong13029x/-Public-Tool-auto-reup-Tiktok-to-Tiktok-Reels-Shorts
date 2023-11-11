@@ -1,7 +1,6 @@
 <h1>Tool-auto-reup-Tiktok-to-Tiktok-Reels-Shorts</h1>
 Tool auto reup Tiktok to Tiktok, Reels, Shorts
-<details>
-<summary>Version 4.0</summary>
+#Version 4.0
 ## Download
 - Link download:
   > [https://www.fshare.vn/file/GOTSBTY257DX](https://www.fshare.vn/file/BDO3ZKIMBCLN)
@@ -59,7 +58,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 ## Buy license
    > [!WARNING]
    > Version not buy license (free).
-</details>
+
 <details>
 <summary>Version 1.0</summary>
 ## Download
