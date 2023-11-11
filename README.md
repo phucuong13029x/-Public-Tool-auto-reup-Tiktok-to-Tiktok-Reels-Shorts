@@ -1,5 +1,90 @@
-# Tool-auto-reup-Tiktok-to-Tiktok-Reels-Shorts
+<h1>Tool-auto-reup-Tiktok-to-Tiktok-Reels-Shorts</h1>
 Tool auto reup Tiktok to Tiktok, Reels, Shorts
+# Version 4.0
+## Download
+- Link download:
+  > [https://www.fshare.vn/file/GOTSBTY257DX](https://www.fshare.vn/file/BDO3ZKIMBCLN)
+- Password:
+  > phucuongds.com
+## Meta
+- config.json
+  + Default
+  {
+    "license": "01gycC94MmgveDJ101gyYy94MnUveDJv01gybi94MmcveDJk01gycy94MiwveDJk01gyaS94MnMveDJr01gyZy94MmkveDJy01gybC94MnMveDIs01gyci94MnUveDJi01gyaS94MmMveDI501gyLC94Mm4veDJl01gydC94MmYveDJs01gyaS94MngveDJt01gyby94MnYveDJp01gyZS94MnAveDJy01gybw0202",
+    "source": {
+        "tiktok": {
+            "active": true,
+            "userid": "@[edit reup channel id]",
+            "load": "all",
+            "begin": 0
+        }
+    },
+    "option": {
+        "day": [0, 1, 2, 3, 4, 5, 6],
+        "time": ["00:00:00"]
+    },
+    "firefox": {
+        "profile": "C:/[edit your path to profile firefox]"
+    },
+    "facebook": {
+        "active": false,
+        "profile": "https://www.facebook.com/[edit your channel id]",
+        "reels": "https://www.facebook.com/reels/create/?surface=ADDL_PROFILE_PLUS"
+    },
+    "youtube": {
+        "active": false,
+        "login": "https://accounts.google.com/ServiceLogin?hl=vi&passive=true&continue=https://www.google.com/",
+        "studio": "https://studio.youtube.com/channel/[edit your channel id]"
+    },
+    "tiktok": {
+        "active": true,
+        "profile": "https://www.tiktok.com/@[edit your channel id]",
+        "upload": "https://www.tiktok.com/creator-center/upload?from=upload"
+    },
+    "twitter": {
+        "active": false,
+        "upload": "https://twitter.com/compose/tweet"
+    }
+  }
+  + [x] "license" : If you have purchased a license, add it. If you do not have one, leave it blank to receive the license (license not yet activated).
+  + [x] "source" > "tiktok"
+    + [x] "userid"  : Insert the tiktok channel id you want to reup. For example: @wikianow
+    + [x] "load"    : Insert "all" to load the entire channel. Insert "new" to load the latest videos.
+    + [x] "begin"   : "auto" load id video save in Cloud or insert start video id to skip uploaded videos.
+  + [x] "option"
+    + [x] "day"     : Weekday => Mon = 0, Tue = 1, Wed = 2, Thu = 3, Fri = 4, Sat = 5, Sun = 6
+    + [x] "time"    : format hh:mm:ss
+  + [x] "firefox"
+    + [x] "profile" : Path to profile Firefox
+  + [x] "facebook"
+    + [x] "active"  : true | false
+    + [x] "profile" : Link fanpage
+    + [ ] "reels"   :
+  + [x] "youtube"
+    + [x] "active"  : true | false
+    + [ ] "login"   :
+    + [x] "studio"  : For example: https://studio.youtube.com/channel/XXXXXXXXXXXXXXXXX
+  + [x] "tiktok"
+    + [x] "active"  : true | false
+    + [x] "profile" : Link to your tiktok channel.
+    + [ ] "upload"  :
+## Tutorial
+1. Download app
+2. Download Firefox
+3. Open firefox:
+   - Open link about:profiles
+   - Create profile and copy path profile
+   - Login Tiktok, Facebook (change profile), Youtube => if config.json active is true.
+4. Edit file config.json (edit link path profile firefox)
+5. Start file runs.exe
+## Buy license
+- 1 month (not support) = $10
+- 1 month (support)     = $15
+## Payment
+- Paypal: https://paypal.me/phucuongds
+- Other (momo, buymeacoffee): https://tool.phucuongds.com/
+- 
+# Version 1.0
 ## Download
 - Link download:
   > https://www.fshare.vn/file/GOTSBTY257DX
