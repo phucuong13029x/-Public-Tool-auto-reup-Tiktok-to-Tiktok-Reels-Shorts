@@ -47,28 +47,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
         "upload": "https://twitter.com/compose/tweet"
     }
   }</pre>
-  + [x] "license" : If you have purchased a license, add it. If you do not have one, leave it blank to receive the license (license not yet activated).
-  + [x] "source" > "tiktok"
-    + [x] "userid"  : Insert the tiktok channel id you want to reup. For example: @wikianow
-    + [x] "load"    : Insert "all" to load the entire channel. Insert "new" to load the latest videos.
-    + [x] "begin"   : "auto" load id video save in Cloud or insert start video id to skip uploaded videos.
-  + [x] "option"
-    + [x] "day"     : Weekday => Mon = 0, Tue = 1, Wed = 2, Thu = 3, Fri = 4, Sat = 5, Sun = 6
-    + [x] "time"    : format hh:mm:ss
-  + [x] "firefox"
-    + [x] "profile" : Path to profile Firefox
-  + [x] "facebook"
-    + [x] "active"  : true | false
-    + [x] "profile" : Link fanpage
-    + [ ] "reels"   :
-  + [x] "youtube"
-    + [x] "active"  : true | false
-    + [ ] "login"   :
-    + [x] "studio"  : For example: https://studio.youtube.com/channel/XXXXXXXXXXXXXXXXX
-  + [x] "tiktok"
-    + [x] "active"  : true | false
-    + [x] "profile" : Link to your tiktok channel.
-    + [ ] "upload"  :
+  + [ ] "license" : Not edit.
 ## Tutorial
 1. Download app
 2. Download Firefox
@@ -79,12 +58,8 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 4. Edit file config.json (edit link path profile firefox)
 5. Start file runs.exe
 ## Buy license
-- 1 month (not support) = $10
-- 1 month (support)     = $15
-## Payment
-- Paypal: https://paypal.me/phucuongds
-- Other (momo, buymeacoffee): https://tool.phucuongds.com/
-- 
+   Version not buy license (free).
+
 # Version 1.0
 ## Download
 - Link download:
