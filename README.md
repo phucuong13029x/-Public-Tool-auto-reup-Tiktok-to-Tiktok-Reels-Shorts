@@ -2,63 +2,63 @@
 Tool auto reup Tiktok to Tiktok, Reels, Shorts
 <details>
 <summary>Version 4.0</summary>
-  ## Download
-  - Link download:
-    > [https://www.fshare.vn/file/GOTSBTY257DX](https://www.fshare.vn/file/BDO3ZKIMBCLN)
-  - Password:
-    > phucuongds.com
-  ## Meta
-  - config.json
-    + Default
-    <pre>{
-      "license": "01gycC94MmgveDJ101gyYy94MnUveDJv01gybi94MmcveDJk01gycy94MiwveDJk01gyaS94MnMveDJr01gyZy94MmkveDJy01gybC94MnMveDIs01gyci94MnUveDJi01gyaS94MmMveDI501gyLC94Mm4veDJl01gydC94MmYveDJs01gyaS94MngveDJt01gyby94MnYveDJp01gyZS94MnAveDJy01gybw0202",
-      "source": {
-          "tiktok": {
-              "active": true,
-              "userid": "@[edit reup channel id]",
-              "load": "all",
-              "begin": 0
-          }
-      },
-      "option": {
-          "day": [0, 1, 2, 3, 4, 5, 6],
-          "time": ["00:00:00"]
-      },
-      "firefox": {
-          "profile": "C:/[edit your path to profile firefox]"
-      },
-      "facebook": {
-          "active": false,
-          "profile": "https://www.facebook.com/[edit your channel id]",
-          "reels": "https://www.facebook.com/reels/create/?surface=ADDL_PROFILE_PLUS"
-      },
-      "youtube": {
-          "active": false,
-          "login": "https://accounts.google.com/ServiceLogin?hl=vi&passive=true&continue=https://www.google.com/",
-          "studio": "https://studio.youtube.com/channel/[edit your channel id]"
-      },
-      "tiktok": {
-          "active": true,
-          "profile": "https://www.tiktok.com/@[edit your channel id]",
-          "upload": "https://www.tiktok.com/creator-center/upload?from=upload"
-      },
-      "twitter": {
-          "active": false,
-          "upload": "https://twitter.com/compose/tweet"
-      }
-    }</pre>
-  ## Tutorial
-  1. Download app
-  2. Download Firefox
-  3. Open firefox:
-     - Open link about:profiles
-     - Create profile and copy path profile
-     - Login Tiktok, Facebook (change profile), Youtube => if config.json active is true.
-  4. Edit file config.json (edit link path profile firefox)
-  5. Start file runs.exe
-  ## Buy license
-     > [!WARNING]
-     > Version not buy license (free).
+## Download
+- Link download:
+  > [https://www.fshare.vn/file/GOTSBTY257DX](https://www.fshare.vn/file/BDO3ZKIMBCLN)
+- Password:
+  > phucuongds.com
+## Meta
+- config.json
+  + Default
+  <pre>{
+    "license": "01gycC94MmgveDJ101gyYy94MnUveDJv01gybi94MmcveDJk01gycy94MiwveDJk01gyaS94MnMveDJr01gyZy94MmkveDJy01gybC94MnMveDIs01gyci94MnUveDJi01gyaS94MmMveDI501gyLC94Mm4veDJl01gydC94MmYveDJs01gyaS94MngveDJt01gyby94MnYveDJp01gyZS94MnAveDJy01gybw0202",
+    "source": {
+        "tiktok": {
+            "active": true,
+            "userid": "@[edit reup channel id]",
+            "load": "all",
+            "begin": 0
+        }
+    },
+    "option": {
+        "day": [0, 1, 2, 3, 4, 5, 6],
+        "time": ["00:00:00"]
+    },
+    "firefox": {
+        "profile": "C:/[edit your path to profile firefox]"
+    },
+    "facebook": {
+        "active": false,
+        "profile": "https://www.facebook.com/[edit your channel id]",
+        "reels": "https://www.facebook.com/reels/create/?surface=ADDL_PROFILE_PLUS"
+    },
+    "youtube": {
+        "active": false,
+        "login": "https://accounts.google.com/ServiceLogin?hl=vi&passive=true&continue=https://www.google.com/",
+        "studio": "https://studio.youtube.com/channel/[edit your channel id]"
+    },
+    "tiktok": {
+        "active": true,
+        "profile": "https://www.tiktok.com/@[edit your channel id]",
+        "upload": "https://www.tiktok.com/creator-center/upload?from=upload"
+    },
+    "twitter": {
+        "active": false,
+        "upload": "https://twitter.com/compose/tweet"
+    }
+  }</pre>
+## Tutorial
+1. Download app
+2. Download Firefox
+3. Open firefox:
+   - Open link about:profiles
+   - Create profile and copy path profile
+   - Login Tiktok, Facebook (change profile), Youtube => if config.json active is true.
+4. Edit file config.json (edit link path profile firefox)
+5. Start file runs.exe
+## Buy license
+   > [!WARNING]
+   > Version not buy license (free).
 </details>
 <details>
 <summary>Version 1.0</summary>
