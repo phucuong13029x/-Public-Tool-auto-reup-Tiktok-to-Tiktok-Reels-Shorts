@@ -9,7 +9,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 ## Meta
 - config.json
   + Default
-  {
+  <pre>{
     "license": "01gycC94MmgveDJ101gyYy94MnUveDJv01gybi94MmcveDJk01gycy94MiwveDJk01gyaS94MnMveDJr01gyZy94MmkveDJy01gybC94MnMveDIs01gyci94MnUveDJi01gyaS94MmMveDI501gyLC94Mm4veDJl01gydC94MmYveDJs01gyaS94MngveDJt01gyby94MnYveDJp01gyZS94MnAveDJy01gybw0202",
     "source": {
         "tiktok": {
@@ -45,7 +45,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
         "active": false,
         "upload": "https://twitter.com/compose/tweet"
     }
-  }
+  }</pre>
   + [x] "license" : If you have purchased a license, add it. If you do not have one, leave it blank to receive the license (license not yet activated).
   + [x] "source" > "tiktok"
     + [x] "userid"  : Insert the tiktok channel id you want to reup. For example: @wikianow
