@@ -61,10 +61,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
    > Version not buy license (free).
 ## Support Social
    > [!NOTE]
-   > Tiktok
-   > Facebook reels
-   > Youtube shorts
-   > Twitter (X)
+   > Tiktok, Facebook (Reels), Youtube (Shorts), Twitter (X)
 
 <details>
 <summary>Version 1.0</summary>
