@@ -59,15 +59,21 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 ## Buy license
    > [!WARNING]
    > Version not buy license (free).
+## Support Social
+   > [!NOTE]
+   > Tiktok
+   > Facebook reels
+   > Youtube shorts
+   > Twitter (X)
 
 <details>
 <summary>Version 1.0</summary>
-## Download
+### Download
 - Link download:
   > https://www.fshare.vn/file/GOTSBTY257DX
 - Password:
   > phucuongds.com
-## Meta
+### Meta
 - config.json
   + Default
     >{
@@ -126,7 +132,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
     + [x] "active"  : true | false
     + [x] "profile" : Link to your tiktok channel.
     + [ ] "upload"  :
-## Tutorial
+### Tutorial
 1. Download app
 2. Download Firefox
 3. Open firefox:
@@ -135,10 +141,10 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
    - Login Tiktok, Facebook (change profile), Youtube => if config.json active is true.
 4. Edit file config.json (edit link path profile firefox)
 5. Start file runs.exe
-## Buy license
+### Buy license
 - 1 month (not support) = $10
 - 1 month (support)     = $15
-## Payment
+### Payment
 - Paypal: https://paypal.me/phucuongds
 - Other (momo, buymeacoffee): https://tool.phucuongds.com/
 </details>
