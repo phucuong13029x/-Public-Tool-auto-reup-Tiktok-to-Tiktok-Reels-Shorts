@@ -15,6 +15,9 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
   5. Start file runs.exe
 
 # Version
+## 4.4
+## 4.3
+## 4.2
 ## 4.1
 ### Feature
 - Fix slow upload Facebook.
