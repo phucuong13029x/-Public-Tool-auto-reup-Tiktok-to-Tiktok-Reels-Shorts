@@ -18,7 +18,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 ## 5.0
 ### Feature
 - Fix error...
-- Add file auto delete post Tiktok.
+- Add file auto delete post Tiktok. Demo: https://x.com/phucuongdscom/status/1726655250654957751?s=20
 ## 4.4
 ## 4.3
 ## 4.2
