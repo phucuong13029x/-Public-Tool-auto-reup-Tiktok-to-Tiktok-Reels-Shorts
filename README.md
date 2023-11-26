@@ -15,6 +15,9 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
   5. Start file runs.exe
 
 # Version
+## 5.3
+## 5.2
+## 5.1
 ## 5.0
 ### Feature
 - Fix error...
