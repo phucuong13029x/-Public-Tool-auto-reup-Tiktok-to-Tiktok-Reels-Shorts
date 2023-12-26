@@ -15,6 +15,12 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
   5. Start file runs.exe
 
 # Version
+## 6.3
+### Feature
+- Fix error...
+- Add server backup. Edit config ["service": 1 or 2]. Default 1 to speed.
+- Edit user reup to userid or uniqueid (@)
+- Add feature module trending. Mode: ["load": new | all | trend]
 ## 5.3
 ## 5.2
 ## 5.1
