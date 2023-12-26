@@ -20,7 +20,7 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
 - Fix error...
 - Add server backup. Edit config ["service": 1 or 2]. Default 1 to speed.
 - Edit user reup to userid or uniqueid (@)
-- Add feature module trending. Mode: ["load": new | all | trend]
+- Add feature module trending. Mode: ["load": new | all | trend]. If ["load": trend] then enter ["region"] is required. ["region"] is the national character. For example: us, vn, jp,...
 ## 5.3
 ## 5.2
 ## 5.1
