@@ -15,6 +15,9 @@ Tool auto reup Tiktok to Tiktok, Reels, Shorts
   5. Start file runs.exe
 
 # Version
+## 8.0
+### Feature
+- Only Tiktok reup to Tiktok => no selenium (Coming soon...)
 ## 7.0
 ### Feature
 - Edit upload tiktok new
